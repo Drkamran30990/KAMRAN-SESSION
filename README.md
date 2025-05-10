@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/DrKamran3090/KAMRAN-MD"><img src="https://github.com/DrKamran3090/KAMRAN-MD.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/Drkamran30990/KAMRAN-SESSION"><img src="https://github.com/DrKamran3090/KAMRAN-MD.png" width="250" height="250" alt="Malvin Tech"/></a>
 
    
