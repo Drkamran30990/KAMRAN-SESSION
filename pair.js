@@ -126,7 +126,7 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/kingmalvn/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/Drkamran30990)  
 
 🚀 _Thanks for choosing KAMRAN-MD — Let the automation begin!_ ✨`;
 
